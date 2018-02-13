@@ -8,7 +8,7 @@ Data can be downloaded from [Dog Breed Identification](https://www.kaggle.com/c/
 3. Custom dataloader for this dataset
 4. Some image transformations
 5. Finetune Resnet50 with 224x224 image size
-6. Finetune Resenet50 with 450x450 image size
+6. Finetune Resnet50 with 450x450 image size
 
 ### Custom dataset
 ```python
