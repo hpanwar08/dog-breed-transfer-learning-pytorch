@@ -48,5 +48,5 @@ Trasformed images
 ![Original Image](images/randomcrop.png "Transformations")
 
 ### TODO
-1. Add method for test data prediction
-2. Add test time augmentation
+- [ ] Add method for test data prediction
+- [ ] Add test time augmentation
