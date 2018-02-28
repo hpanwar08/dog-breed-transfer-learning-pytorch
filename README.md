@@ -5,10 +5,10 @@ This repo is about transfer learning in pytorch for kaggle dog breed playground
 Data can be downloaded from [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification/data).
 
 ### Prerequisites
-1. Python 3
-2. Pytorch 0.3
+1. `Python 3`
+2. `Pytorch 0.3`
 
-### Included in Notebook
+### Included in [Notebook](Kaggle_Dog_Breed_Transfer_Learning_Pytorch.ipynb)
 1. How data is arranged
 3. Custom dataloader for this dataset
 4. Some image transformations
